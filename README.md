@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # PHP CRUD System (XAMPP + MySQL + Tailwind CSS)
 
 A simple and stable **PHP CRUD (Create, Read, Update, Delete)** system built with **Core PHP**, **MySQL**, and **Tailwind CSS**.  
@@ -145,6 +145,4 @@ Student & Developer
 📄 License
 This project is free to use for learning and educational purposes.
 =======
-# PHP_CRUD_ASSIGNMENT_C1221344_Abdi_kani_Mohamed_Hassan
-PHP_CRUD_ASSIGNMENT Class CA227 Partime 
->>>>>>> f83b4de2c7c956c999872aaa3f54410817ffb2d8
+
