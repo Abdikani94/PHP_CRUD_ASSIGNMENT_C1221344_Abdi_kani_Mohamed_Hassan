@@ -1,30 +1,60 @@
-PHP CRUD System (XAMPP + MySQL + Tailwind CSS)
-A simple and stable PHP CRUD (Create, Read, Update, Delete) system built with Core PHP, MySQL, and Tailwind CSS.
-This project includes admin login authentication and a clean UI, designed for learning and small academic or demo projects.
+# PHP CRUD System (XAMPP + MySQL + Tailwind CSS)
 
-🚀 Features
-Admin Login & Logout
-Create student records
-View all students
-Update student information
-Delete students
-Flash messages (success & error)
-Clean UI using Tailwind CSS
-Secure database access using PDO
-🛠️ Technologies Used
-PHP (Core PHP)
-MySQL (phpMyAdmin)
-Tailwind CSS (CDN)
-XAMPP (Apache + MySQL)
-📂 Project Structure
-php-crud-pro/ │ ├── assets/ │ └── helpers.php │ ├── auth.php ├── config.php ├── create.php ├── delete.php ├── edit.php ├── index.php ├── login.php ├── logout.php ├── README.md
+A simple and stable **PHP CRUD (Create, Read, Update, Delete)** system built with **Core PHP**, **MySQL**, and **Tailwind CSS**.  
+This project includes **admin login authentication** and a clean UI, designed for learning and small academic or demo projects.
 
-yaml Copy code
+---
 
-🗄️ Database Setup
-1️⃣ Create Database
-Open phpMyAdmin → SQL tab → run:
+## 🚀 Features
 
+- Admin Login & Logout
+- Create student records
+- View all students
+- Update student information
+- Delete students
+- Flash messages (success & error)
+- Clean UI using Tailwind CSS
+- Secure database access using PDO
+
+---
+
+## 🛠️ Technologies Used
+
+- PHP (Core PHP)
+- MySQL (phpMyAdmin)
+- Tailwind CSS (CDN)
+- XAMPP (Apache + MySQL)
+
+---
+
+## 📂 Project Structure
+
+php-crud-pro/
+│
+├── assets/
+│ └── helpers.php
+│
+├── auth.php
+├── config.php
+├── create.php
+├── delete.php
+├── edit.php
+├── index.php
+├── login.php
+├── logout.php
+├── README.md
+
+yaml
+Copy code
+
+---
+
+## 🗄️ Database Setup
+
+### 1️⃣ Create Database
+Open **phpMyAdmin** → SQL tab → run:
+
+```sql
 CREATE DATABASE php_crud_tailwind;
 USE php_crud_tailwind;
 2️⃣ Create Tables
@@ -108,9 +138,8 @@ User roles (Admin / Staff)
 REST API version
 
 👤 Author
-Abdi kani Mohamed Hassan
+Abdi kani Mohamed
 Student & Developer
 
 📄 License
 This project is free to use for learning and educational purposes.
-=======
